@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/servlet-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/jasper.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/jsp-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/el-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/annotations-api.jar"/>
+	<classpathentry kind="src" path="pruebacentripio/WEB-INF/src"/>
+	<classpathentry kind="src" output="work" path="work"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/org.eclipse.persistence.jpars_2.5.0.v20130507-3faac2b.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/org.eclipse.persistence.jpa.modelgen.source_2.5.0.v20130507-3faac2b.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/json-20201115.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/javax.websocket-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/javax.persistence_2.1.0.v201304241213.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/eclipselink.jar"/>
+	<classpathentry kind="output" path="pruebacentripio/WEB-INF/classes"/>
+</classpath>
